@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: Site Title
+title: Seattle Spew
 locale: en_US
 description: Describe your website here.
-logo: site-logo.png
-search: true
+logo: Hawk1.jpg
+search: false
 url: http://psmak3.github.io
 
 # Jekyll configuration
@@ -47,7 +47,7 @@ titlecase: true
 
 
 # Site owner
-owner:
+owner: 
   name: Your Name
   avatar: bio-photo.jpg
   email: you@email.com
