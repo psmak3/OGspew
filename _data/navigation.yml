@@ -1,16 +1,22 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: National
+  url: /national/
 
-- title: Articles
-  url: /articles/
+- title: Local
+  url: /local/
 
-- title: Blog
-  url: /blog/
+- title: Personal
+  url: /personal/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Sports
+  url: /sports/
 
-- title: Search
-  url: /search/
+- title: Pop Culture
+  url: /popculture/
+
+- title: Beer
+  url: /beer/
+
+- title: Top 10s
+  url: /top10s/
