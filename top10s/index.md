@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Top 10's
+title: Top 10's 
 excerpt: "Poo"
 search_omit: true
+image:
+  feature: top10.jpg
 ---
 
 <ul class="post-list">

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: World
+title: World Spew
 excerpt: "Poo"
 search_omit: true
+image:
+  feature: world.jpg
 ---
 
 <ul class="post-list">

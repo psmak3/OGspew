@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Pop Culture
+title: Pop Culture Spew
 excerpt: "Poo"
 search_omit: true
+image:
+  feature: popculture.jpg
 ---
 
 <ul class="post-list">

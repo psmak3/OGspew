@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Local
+title: Local Spew
 excerpt: "Poo"
 search_omit: true
+image:
+  feature: local.jpg
 ---
 
 <ul class="post-list">

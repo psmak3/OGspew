@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Sports
+title: Sports Spew
 excerpt: "Poo"
 search_omit: true
+image:
+  feature: Hawk1.jpg
 ---
 
 <ul class="post-list">

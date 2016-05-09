@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Beer
+title: Beer Spew
 excerpt: "Poo"
 search_omit: true
+image:
+  feature: beer.jpg
 ---
 
 <ul class="post-list">
