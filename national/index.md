@@ -4,7 +4,7 @@ title: National Spew
 excerpt: "National Spew"
 search_omit: true
 image: 
-  feature: Hawk1.jpg
+  feature: so-simple-sample-image-2.jpg
 ---
 
 <ul class="post-list">
