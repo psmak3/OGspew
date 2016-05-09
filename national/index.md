@@ -2,6 +2,7 @@
 layout: page
 title: National
 excerpt: "National Spew"
+search_omit: true
 ---
 
 <ul class="post-list">
