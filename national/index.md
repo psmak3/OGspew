@@ -1,15 +1,13 @@
 ---
 layout: page
-title: What the hell is going on out there?
-excerpt:
-modified: 2016-05-06
-image: national2.jpg
+title: Natioanl
+excerpt: "Poo"
+search_omit: true
 ---
 
-To quoteth Vince Lombardi...
-
-# Donald...who?
-
-Really America? I mean really? What is going on here?
-
+<ul class="post-list">
+{% for post in site.categories.blog %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
 
