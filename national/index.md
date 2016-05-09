@@ -3,6 +3,10 @@ layout: page
 title: National Spew
 excerpt: "National Spew"
 search_omit: true
+image:
+  feature: so-simple-sample-image-6.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <ul class="post-list">
