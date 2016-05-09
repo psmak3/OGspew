@@ -1,8 +1,10 @@
 ---
 layout: page
 title: National
-excerpt: "Poo"
+excerpt: "National Spew"
 search_omit: true
+image: 
+  feature: national2.jpg
 ---
 
 <ul class="post-list">
