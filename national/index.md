@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National Spew
+title: National
 excerpt: "National Spew"
 ---
 
