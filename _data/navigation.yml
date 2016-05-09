@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: World
+  url: /world/
+
 - title: National
   url: /national/
 
