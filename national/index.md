@@ -1,8 +1,10 @@
 ---
 layout: page
-title: National
+title: National Spew
 excerpt: "National Spew"
 search_omit: true
+image:
+  feature: so-simple-sample-image-6.jpg
 ---
 
 <ul class="post-list">
