@@ -4,7 +4,7 @@ title: Local Spew
 excerpt: "Poo"
 search_omit: true
 image:
-  feature: local.jpg
+  feature: local.png
 ---
 
 <ul class="post-list">
