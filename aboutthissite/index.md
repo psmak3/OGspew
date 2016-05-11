@@ -17,7 +17,7 @@ Anyway, to answer St. Lombardi; I pretty much need a creative outlet to let my i
 So without further ado, here is a quick description of each page:
 
 
-##Global
+## Global
 
 My thoughts and takes on things that relate to all things around this great big blue marble I like to call 'Earth'. Updated bi-weekly.
 
