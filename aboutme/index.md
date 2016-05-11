@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-excerpt: 
-modified: 2016-05-11
+excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
+modified: 2016-01-19
 image:
   feature: aboutme.jpg
 ---
@@ -14,7 +14,7 @@ I think to fully understand this site, one must understand the man behind the si
 
 I was born on the shortest day of the year in Tucson, Arizona. My area, or 'barrio' as I like to say, was Camino Los Brazos (which loosely translates to 'street of armed and scary men'). If one knows the nature of this area, one would know how culturally divided and tension-filled my 'barrio' was. Mormons to the left of me, Jews to the right, it was a virtual Gaza Strip in the Old Pueblo. The only detente acheived at Fruchthendler Elementary was during any of the Jewish holidays, where half the school would not attend class. The probability was low for this poor little white boy, coming from upper-middle class academic-minded agnostics, to make it out of this situation.
 
-But I did. After 13 years of scholastic rigor, I was the first person in my family to finish high school (in Arizona). After deciding to take a year off to explore my sexually and travel the world (ie: practicing abtinence and going to Texas), I came back to Tucson and attended the University of Arizona. And when I say 'attending' I mean 'attending' I attended every class, every sporting event, and every major. A wise man once said 'All those who wander are not lost, but some are lost. Some are very lost. Some fuckers have no clue what they are doing and just get in the way of others that do know.' I think it was Nietzsche. Anyway, I was lost. Downside: wasted time and money. Upside: have 150 credits in a olio of subjects. 
+But I did. After 13 years of scholastic rigor, I was the first person in my family to finish high school (in Arizona). After deciding to take a year off to explore my sexually and travel the world (ie: practicing abtinence and going to Texas), I came back to Tucson and attended the University of Arizona. And when I say 'attending' I mean 'attending' I attended every class, every sporting event, and every major. A wise man once said 'All those who wander are not lost, but some are lost. Some are very lost. Some fuckers have no clue what they are doing and just get in the way of others that do know.' I think it was Nietzsche. Anyway, I was lost. Downside: wasted time and money. Upside: have 150 credits in a olio of subjects such as Women's Studies and Philosophy. 
 
 After 6 years of 'attending', I had to get out of that place. So what to do? Well, another wise man said 'those who can, do. Those who can't, teach high school math'. I think that was Gandalf. So again, what did I do? I taught math. In high school. 
 
