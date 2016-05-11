@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Hi, my name is Phil. You may remember me from such websites as the one you are looking at right now
-excerpt: ". Done 5/10/16"
+title: About Me
+excerpt: 
+modified: 2016-05-11
 image:
   feature: aboutme.jpg
 ---
 
-
+# Hi, my name is Phil. You may remember me from such websites as the one you are looking at right now
 
 I think to fully understand this site, one must understand the man behind the site. And that man is me. So without further ado, here is a sneak peek into the history, life, and background of....well....me.  
 
