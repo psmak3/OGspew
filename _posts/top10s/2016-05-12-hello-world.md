@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Hello Worlsxvdcsxvds"
 modified:
 categories: top10s
