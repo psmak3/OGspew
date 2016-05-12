@@ -46,6 +46,10 @@ Pretty much me telling you what to watch, listen to, etc. Wow, I sound like my m
 
 In all honestly, this section will be the most informative. My friend Josh and I try as many as 10 new beers a week and rate them. Hopefully this may inspire a more in depth blog than just a simple page on a personal website, but for now this will do. Again, beer lovers who live in Seattle can get something out of this section. Updated weekly.
 
+## Top 10s
+
+A little flavor of my tastes in a myriad of subjects.
+
 ## About Me
 
 My bio
