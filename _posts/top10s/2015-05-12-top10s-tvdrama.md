@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Top 10 Movies of All-Time"
+title: "Top 10 TV Dramas of All-Time"
 modified:
 categories: top10s
 excerpt:
 tags: []
 image:
   feature:
-date: 2014-08-08T15:39:55-04:00
 ---
 
 # 10. My Fair Lady 
