@@ -13,7 +13,7 @@ share: true
 
 Social media has bred an ugly beast; the guy who thinks they know everything.
 
-Ugh, don't you hate that guy? I mean it seems like we live in a society where opinions come before knowledge, where persuasion is based on how loud you yell, where accreditation comes from how many twitter followers you have. Now that guy, who loves to wax poetically about nonsense he knows nothing about, gets a social platform via the interwebs and this drowns out the reasonable people who do actualy work and research.
+Ugh, don't you hate that guy? I mean it seems like we live in a society where opinions come before knowledge, where persuasion is based on how loud you yell, where accreditation comes from how many twitter followers you have. Now that guy, who loves to wax poetically about nonsense he knows nothing about, gets a social platform via the interwebs and this drowns out the reasonable people who do actually work and research.
 
 God I hate those people. I mean, who the hell do you think you are?
 

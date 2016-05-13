@@ -24,7 +24,7 @@ The Republican party, over the last year, has been scorching Donald Trump with s
 Here are four quotes from Republicans:
 
 
-Bobby Jindal (Gov. Louisiana): 'Narcissist egomatic', 'stop being the stupid party'
+Bobby Jindal (Gov. Louisiana): 'Narcissist egomaniac', 'stop being the stupid party'
 
 Chris Christie (Gov. NJ): 'acts like a 13 year old', 'It’s not going to happen. It’s the wrong message to send, and it’s not going to be effective. Always beware of the candidate for public office who has the quick and easy answer to a complicated problem.'
 
@@ -37,7 +37,7 @@ Note: I am no political wonk, but even I have heard of each of these guys before
 
 
 
-So what do each one of these guys have in common? They all suppport Donald Trump as of right now.
+So what do each one of these guys have in common? They all support Donald Trump as of right now.
 
 
 
@@ -50,7 +50,7 @@ My ultimate question is this: ** what are you first, a Republican or an American
 
 Even if you like Donald Trump, you like the bravado and think America needs a change of leadership, there is no question he is unqualified for the job. He doesn't know policy, how the government works, and the true responsibilities of the president. Even more importantly, he doesn't care to know. How do I know this? He has never held office in his life!! There is no possible way he knows any of this stuff. 
 
-What other job in the world allows someone to receive the highest position without any experience in the field? I've never been a doctor, can I be the head surgeon at Johns Hopkins? I've never taken an architecture class, can I build the WWII monuement in DC? Hell, I wouldn't let someone pick the weeds in my yard unless they had a hoe. Donald Trump doesn't even have the proper hoe for this job. 
+What other job in the world allows someone to receive the highest position without any experience in the field? I've never been a doctor, can I be the head surgeon at Johns Hopkins? I've never taken an architecture class, can I build the WWII monument in DC? Hell, I wouldn't let someone pick the weeds in my yard unless they had a hoe. Donald Trump doesn't even have the proper hoe for this job. 
 
 So what are you: a Republican or an American?
 
@@ -64,7 +64,7 @@ I think we know the answer to that.
 
 
 
-I like to think if the siutation was reversed, if there was a 'D' by Trump's name, the Deomcrats would respond in a more appropriate way. But I am an idealist and have no proof of this. For the sake of sanity, I'll keep believing this because...well...LOOK AT THAT BIRD OVER THERE!!!!
+I like to think if the situation was reversed, if there was a 'D' by Trump's name, the Democrats would respond in a more appropriate way. But I am an idealist and have no proof of this. For the sake of sanity, I'll keep believing this because...well...LOOK AT THAT BIRD OVER THERE!!!!
 
 
 

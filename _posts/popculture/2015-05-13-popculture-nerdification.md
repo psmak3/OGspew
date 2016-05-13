@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-![Nerds Rise](https://theshovingbuddies.files.wordpress.com/2014/08/revenge-of-the-nerds-original.jpg =600x300)
+![Nerds Rise](http://img.dishonline.com/dish/dyn/rs/640/x/cb/41/cb4197164fe95adad0676cdd5d0f948c.jpg)
 
 
 In my wildest dreams I would have never thought Comic-Con would become what is it today: the entertainment media capital of the world during the summer time. Wasn't Comic-Con really supposed to be a place where basement-dwelling virgins meet up to play Magic and discuss who would win in a fight between Captain Marvel and Superman? Apparently not any more. So how did this happen?

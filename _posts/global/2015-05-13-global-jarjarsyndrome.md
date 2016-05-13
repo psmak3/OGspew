@@ -14,7 +14,7 @@ share: true
 
 Have you ever seen a product at a store and wonder 'how in the hell did it get here'? For example, the Chia Pet, inane stickers found in a vending machine, bumper stickers with Calvin peeing on some logo. 
 
-Now these things do just magically appear; they have to clear all sorts of hurdles. I mean there was an idea for this product, they pitched it to a company, there had to be some sort of analytics about a buying market, an executive board has to apporve it, then it gets produced and distributed throughout the country. This is a lot of work! And all for a Grumpy Cat sticker (although Grumpy Cat is pretty awesome).
+Now these things do just magically appear; they have to clear all sorts of hurdles. I mean there was an idea for this product, they pitched it to a company, there had to be some sort of analytics about a buying market, an executive board has to approve it, then it gets produced and distributed throughout the country. This is a lot of work! And all for a Grumpy Cat sticker (although Grumpy Cat is pretty awesome).
 
 This is what I call the 'Jar Jar Syndrome'. 
 
@@ -28,7 +28,7 @@ Look at this guy:
 ![](http://www.londonlovesbusiness.com/pictures/462xAny/1/4/5/20145_Boris-Johnson-wins-seat-MP.jpg)  
 
 
-This, my friend WAS the mayor of London, Boris Johnson. From what I understand, mayor is an important role for a city. And London, well, that's a big city. You don't just 'get' to be a mayor of a big city. You have to have some sort of government experiece, make friends with agencies that have money, win over various political and social nabobs,  and win a damn election! So how did this happen? I mean....LOOK AT THIS GUY! It is like Graham Chapman and Bozo had a one night stand and this was the residue. 
+This, my friend WAS the mayor of London, Boris Johnson. From what I understand, mayor is an important role for a city. And London, well, that's a big city. You don't just 'get' to be a mayor of a big city. You have to have some sort of government experience, make friends with agencies that have money, win over various political and social nabobs,  and win a damn election! So how did this happen? I mean....LOOK AT THIS GUY! It is like Graham Chapman and Bozo had a one night stand and this was the residue. 
 
 Now to fair, he may be a competent man. But it turns out he is not. He is a gadabout who just likes to travel, shirk responsibility, and talk tough to various PM's behind their back (hmmm....sounds familiar with another man I know with bad hair).
 
@@ -49,7 +49,7 @@ Check this out:
 
 - 1999: DUI in Miami
 
-- 2006: removed from MAple Leafs game due to being drunk is disorderly
+- 2006: removed from Maple Leafs game due to being drunk is disorderly
 
 - 2008: charged with threatening to kill his wife
 
@@ -59,7 +59,7 @@ Check this out:
 
 - 2013: caught on camera smoking CRACK!
 
-- 1997-2013: over 100 rude and awful remarks he made as a city councilman, varying from anti-gay slurs, to harrassing women (some of the age of 16), and anti-asian slurs.
+- 1997-2013: over 100 rude and awful remarks he made as a city councilman, varying from anti-gay slurs, to harassing women (some of the age of 16), and anti-Asian slurs.
 
 
 And he won 58% of the vote after this.
