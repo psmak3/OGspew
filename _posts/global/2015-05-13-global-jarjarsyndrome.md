@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Global"
-excerpt: "The 'Jar Jar' Syndrome"
+title: "The 'Jar Jar' Syndrome"
+excerpt: "Global"
 categories: global
 comments: true
 share: true
 ---
 
-# The 'Jar Jar' Syndrome
+![](https://jmgkingdotcom.files.wordpress.com/2016/05/jar-jar-m9.jpg)
+
 
 
 
@@ -22,10 +23,9 @@ This just doesn't happen in the marketing or Star Wars world. This happens in po
 # Case 1
 
 Look at this guy:
-
-<figure>
-	<a href="http://www.contactmusic.com/pics/ln/20160419/190416_news_boris_johnson/mayor-of-london-boris-johnson_5219588.jpg"><img src="http://www.contactmusic.com/pics/ln/20160419/190416_news_boris_johnson/mayor-of-london-boris-johnson_5219588.jpg" alt="image"></a>
-</figure>
+  
+  
+![](http://www.londonlovesbusiness.com/pictures/462xAny/1/4/5/20145_Boris-Johnson-wins-seat-MP.jpg)  
 
 
 This, my friend WAS the mayor of London, Boris Johnson. From what I understand, mayor is an important role for a city. And London, well, that's a big city. You don't just 'get' to be a mayor of a big city. You have to have some sort of government experiece, make friends with agencies that have money, win over various political and social nabobs,  and win a damn election! So how did this happen? I mean....LOOK AT THIS GUY! It is like Graham Chapman and Bozo had a one night stand and this was the residue. 
@@ -38,9 +38,8 @@ Note: the new mayor, a Muslim guy named Sadiq Khan, seems like a reasonable man.
 
 This guy is great:
 
-<figure>
-	<a href="http://rollingout.com/wp-content/uploads/2014/02/Toronto-Mayor-Rob-Ford.jpg?35eca3"><img src="http://rollingout.com/wp-content/uploads/2014/02/Toronto-Mayor-Rob-Ford.jpg?35eca3" alt="image"></a>
-</figure>
+![](http://rollingout.com/wp-content/uploads/2014/02/Toronto-Mayor-Rob-Ford.jpg?35eca3)
+
 
 
 Yes, Robby Ford, ex-mayor of Toronto. 
@@ -60,7 +59,7 @@ Check this out:
 
 - 2013: caught on camera smoking CRACK!
 
-- 1997-2013: this doesn't count over 100 rude and awful remarks he made as a city councilman.
+- 1997-2013: over 100 rude and awful remarks he made as a city councilman, varying from anti-gay slurs, to harrassing women (some of the age of 16), and anti-asian slurs.
 
 
 And he won 58% of the vote after this.
@@ -70,9 +69,8 @@ And he won 58% of the vote after this.
 
 Oh, Marion Barry.
 
-<figure>
-	<a href="https://thenypost.files.wordpress.com/2014/06/091907barry-1.jpg?w=680&h=450&crop=1&quality=90&strip=all"><img src="https://thenypost.files.wordpress.com/2014/06/091907barry-1.jpg?w=680&h=450&crop=1&quality=90&strip=all"></a>
-</figure>
+![](https://thenypost.files.wordpress.com/2014/06/091907barry-1.jpg?w=680&h=450&crop=1&quality=90&strip=all)
+
 
 
 
