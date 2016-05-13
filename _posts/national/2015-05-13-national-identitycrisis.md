@@ -8,7 +8,7 @@ share: true
 ---
 
 
-![](http://www.breitbartunmasked.com/wp-content/uploads/2015/04/jenner.jpg)
+![](http://netstorage.discovery.com/feeds/brightcove/asset-stills/nws/127749088467412934814901199_UncleSam5.jpg)
 
 What are you? Are you white? A woman? A Muslim? An American? A Democrat?
 
