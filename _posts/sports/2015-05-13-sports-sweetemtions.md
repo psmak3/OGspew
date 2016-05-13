@@ -13,7 +13,7 @@ share: true
 
 I hate when people get on my case about caring about sports. They belittle the fact I live and die (figuratively of course) with certain teams. There is self-righteous air among these people that they are so emotionally sophisticated and well-grounded in their life that any pain or heartache from sports is just plain silly. I fuckin' hate that. Because....well.....
 
-They are right. It is stupid. It's stupid that I can't sleep after the Spurs lost to the Thunder yesterday. It's assinine that the 1985 World Series Game 6 call by Don Denkiner will never leave me. It makes no sense that the Hawk loss in Super Bowl XLIX is one of the most profound and mind-altering moments of my life (I never go a day without thinking about it in some way). 
+They are right. It is stupid. It's stupid that I can't sleep after the Spurs lost to the Thunder yesterday. It's asinine that the 1985 World Series Game 6 call by Don Denkiner will never leave me. It makes no sense that the Hawk loss in Super Bowl XLIX is one of the most profound and mind-altering moments of my life (I never go a day without thinking about it in some way). 
 
 I mean I'll never meet any of these guys. They are in a completely different social caste than I can ever hope to be in. And all it really takes for me to love Russell Westbrook instead of hating him with everything I have is for him to don a Spurs jersey. I mean what is the real difference between Tom Brady and Russell Wilson, or A-Rod and Mike Trout? Probably far less than we like to think.
 
@@ -32,7 +32,7 @@ Did you feel sad when your cat/dog died? Why? They aren't even our species!
 
 Why care about anything for that matter. I mean not only are there 7+ billion people in the world, there are about 46 billion light years between the edges of the observable universe, why care about anything? 
 
-The point is not to be a nihilist and throw away all emotion, it is that all emotional ties can be minimalized and looked at as silly through a logical lens. All that I am asking is please do not belittle others when they care about things that are different than the things you care about. The things we care about makes us human, but more importantly it is these things that makes us interesting. 
+The point is not to be a nihilist and throw away all emotion, it is that all emotional ties can be minimized and looked at as silly through a logical lens. All that I am asking is please do not belittle others when they care about things that are different than the things you care about. The things we care about makes us human, but more importantly it is these things that makes us interesting. 
 
 
 
