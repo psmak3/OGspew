@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-![]https://upload.wikimedia.org/wikipedia/en/9/9c/Extreme_(_Extreme_album_-_cover_art).jpg
+![](https://upload.wikimedia.org/wikipedia/en/9/9c/Extreme_(_Extreme_album_-_cover_art).jpg)
 
 
 
